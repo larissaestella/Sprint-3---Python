@@ -5,4 +5,4 @@
             Lucas Masaki Nagahama | 553084 
             Victor Henrique Vilares Rodrigues | 554175
     
-Este projeto foi desenvolvido para a realização do Sprint 3 da matéria de Python.
+Este projeto foi desenvolvido para a realização da Sprint 3 da matéria de Python.
