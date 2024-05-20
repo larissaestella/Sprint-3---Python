@@ -6,7 +6,7 @@
             Victor Henrique Vilares Rodrigues | 554175
     
 # Cadastro de Pacientes
-Este é um script Python para gerenciar o cadastro de pacientes e seus procedimentos médicos. Ele coleta informações pessoais dos pacientes, calcula suas idades, fornece explicações sobre procedimentos médicos e envia mensagens de WhatsApp com os detalhes do procedimento escolhido. Os dados dos pacientes são armazenados em um arquivo JSON.
+Este é um script Python para gerenciar o cadastro de pacientes e os procedimentos médicos. Ele coleta informações pessoais dos pacientes, calcula suas idades, fornece explicações sobre procedimentos médicos e envia mensagens de WhatsApp com os detalhes do procedimento escolhido. Os dados dos pacientes são armazenados em um arquivo externo JSON.
 
 ## Funcionalidades
 
@@ -18,6 +18,7 @@ A função `obter_dados_paciente` coleta informações pessoais dos pacientes:
 - Sexo
 - Email
 - Número de celular
+
 O CPF é formatado corretamente e o número de celular é limpo de caracteres não numéricos.
 
 ### 2. Cálculo da Idade
